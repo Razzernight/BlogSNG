@@ -7,7 +7,7 @@ import { Article } from './article';
 const httpOptions = {
   headers: new HttpHeaders({ 'Content-Type': 'application/json' })
 };
-const apiUrl = 'https://refactored-broccoli-pjrrvwppvvg379gq-3000.app.github.dev/api/article';
+const apiUrl = 'https://glorious-space-enigma-p6rvxj55696f9vp-3000.app.github.dev/api/article';
 
 
 
